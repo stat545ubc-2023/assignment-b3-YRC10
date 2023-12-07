@@ -1,0 +1,10 @@
+name: shinyapp4
+title:
+username: yrc10
+account: yrc10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10741397
+bundleId: 8019495
+url: https://yrc10.shinyapps.io/shinyapp4/
+version: 1
