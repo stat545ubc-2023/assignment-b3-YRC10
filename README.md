@@ -14,7 +14,7 @@ last update: 2023-12-07
 
 ## Application Description
 
-This application uses the gapminder database to display Life Expectancy, Total Population, and Per-Capita GDP data for each continent of the world. Users can freely select time interval, continent, country/region, and characteristic. The application will display the annual average of the corresponding characteristics on the chart in real time. In addition, there is a corresponding more detailed table below the chart for viewing.
+This application uses the gapminder database to display Life Expectancy, Total Population, and Per-Capita GDP data for each continent of the world. Users can freely select time intervals, continents, countries/regions, and characteristics. The application will display the average value of the selected continent and the individual value of the selected country/region on the chart in real time. In addition, there is a corresponding more detailed table below the chart for viewing.
 
 ## Features
 
@@ -23,7 +23,7 @@ This application uses the gapminder database to display Life Expectancy, Total P
 
 2. Selection bar that can select the range of year, from 1952 to 2007
 
-3. Selection menu of the continent. It also contains a 'World' option that represent the selected property of the whole world
+3. Selection menu of the continent. It also contains a 'World' option that represents the selected property of the whole world
 
 4. Selection menu of property. It contains 3 properties: Life Expectancy, Total Population, and Per-Capita GDP
 
@@ -33,7 +33,7 @@ This application uses the gapminder database to display Life Expectancy, Total P
 
 1. Selection menu of country/region. It contains all countries/regions in the selected continent
 
-2. The Line chart can display both average value of the selected continent and individual value of the selected country/region
+2. The Line chart can display both the average value of the selected continent and the individual value of the selected country/region
 
 3. Map image changes based on selected continent
 
